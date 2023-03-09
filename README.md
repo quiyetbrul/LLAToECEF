@@ -7,6 +7,7 @@ The solution is a C++ class that takes in an input CSV file containing time, lat
 - C++ compiler with C++17 or above support
 - [CMake 3.0.0](https://cmake.org/) or above
 - [Google Test](https://github.com/google/googletest)
+- Linux Environment
 
 ## Build
 
